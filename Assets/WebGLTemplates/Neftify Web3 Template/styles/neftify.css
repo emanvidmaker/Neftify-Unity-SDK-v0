@@ -1,0 +1,26 @@
+
+/* DEMO */
+
+/* ----- THEMING */
+
+.theme-dark {
+  --neftify-modal-radius: 21px;
+  --neftify-modal-background-color: #262626;
+  --neftify-modal-text-color: #fff;
+  --neftify-header-background-color: #0d0d0d;
+  --neftify-header-close-button-background-color: #262626;
+  --neftify-header-close-button-icon-color: #b6b6b6;
+  --neftify-provider-radius: 16px;
+  --neftify-provider-background-color: #0d0d0d;
+  --neftify-provider-border-color: #404040;
+}
+
+.theme-branded {
+  --neftify-modal-radius: 6px;
+  --neftify-modal-background-color: #fff;
+  --neftify-modal-text-color: #010101;
+  --neftify-header-background-color: #000066;
+  --neftify-header-close-button-background-color: #37378d;
+  --neftify-header-close-button-icon-color: #c3c3dd;
+  --neftify-provider-radius: 16px;
+}
